@@ -1,0 +1,15 @@
+img{
+    width: 250px;
+    height: 250px;
+}
+.introduce {
+   margin-left: 100px;
+    display: inline-block;
+}
+hr{
+    display: block;
+    border-width: 100px;
+}
+#content{
+    margin-left: 100px;
+}
